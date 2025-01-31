@@ -5,6 +5,7 @@ As IAs Generativas são modelos de inteligência artificial treinados para criar
 # 🤖 Tecnologias Utilizadas
 
 ChatGPT – Para a geração de textos explicativos sobre IAs Generativas.
+
 DALL·E (via Bing Image Creator) – Para criar imagens ilustrativas sobre o tema.
 
 # 🧐 Processo de Criação
